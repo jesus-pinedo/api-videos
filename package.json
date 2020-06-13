@@ -1,0 +1,26 @@
+{
+  "name": "api-videos",
+  "version": "1.0.0",
+  "description": "api-videos test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus-pinedo/api-videos.git"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "jpinedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus-pinedo/api-videos/issues"
+  },
+  "homepage": "https://github.com/jesus-pinedo/api-videos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
