@@ -9,7 +9,6 @@ const BodyParser = require('koa-bodyparser')
 const Respond = require('koa-respond')
 //const mongo = require('../db/index')
 const app = new Koa()
-console.log(router)
 app.use(Cors())
 app.use(BodyParser({
   enableTypes: ['json'],
